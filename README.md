@@ -2,7 +2,7 @@
 공부했던 자료
 
 # git 명령어
-git clone {주소}
-git remote add origin https://github.com/{gitName}/{gitRepository}
-git commit -m "메세지"
-git push
+<p>"git clone {주소}"</p>
+<p>"git remote add origin https://github.com/{gitName}/{gitRepository}"</p>
+<p>"git commit -m "메세지" "</p>
+<p>"git push" </p>
